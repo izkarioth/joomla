@@ -26,4 +26,6 @@ Tested on several joomla 5 and 6 live sites
 This Extension is free to use
 
 Have fun!
-www.serviceverkoop.eu
+
+Download source: https://www.serviceverkoop.eu/portal/forum/nerds/31-joomla-6-random-html-module
+

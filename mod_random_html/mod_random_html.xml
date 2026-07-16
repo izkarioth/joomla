@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension
 	type="module"
-	version="2.5"
+	version="6"
 	client="site"
 	method="upgrade">
 	<name>Random Html For Joomla 5 and 6</name>
@@ -12,7 +12,7 @@
 	<authorEmail>localhost1967@gmail.com</authorEmail>
 	<authoralt>http://www.serviceverkoop.eu/</authoralt>
 	<version>1.0</version>
-	<description>The module displays a random phrases. </description>
+	<description>The module displays random html</description>
 	<files>	
 		<filename module="mod_random_html">mod_random_html.php</filename>
 		<filename>index.html</filename>

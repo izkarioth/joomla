@@ -21,7 +21,7 @@ phpif (!class_exists('JModuleHelper')) {
 
 
 Language files for front and back end are included
-Tested on several uptodate joomla live sites
+Tested on several joomla 5 and 6 live sites
 
 This Extension is free to use
 

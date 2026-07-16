@@ -1,5 +1,5 @@
 With The Extension Random HTML Module you can easily create random html to your own wishes.
-Use them to create ramdom html or javascripting and css
+Use them to create random html or javascripting and css
 
 examples are random cursor, random javascripts, random html frames
 

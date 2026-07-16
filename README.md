@@ -4,13 +4,13 @@ examples are random cursor, random javascripts, random html frames
 
 
 if by any chance you get errors about JModuleHelper here is the solution:
-
 Open your template index.php and paste this little alias bridge
-<?php
+
+< ?php
 phpif (!class_exists('JModuleHelper')) {
     class_alias('Joomla\\CMS\\Helper\\ModuleHelper', 'JModuleHelper');
 }
-?>
+? >
 
 
 

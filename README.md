@@ -27,5 +27,6 @@ This Extension is free to use
 
 Have fun!
 
-Download source: https://www.serviceverkoop.eu/portal/forum/nerds/31-joomla-6-random-html-module
+Download source: 
+https://www.serviceverkoop.eu/portal/forum/nerds/scripts/joomla/31-joomla-6-random-html-module
 
